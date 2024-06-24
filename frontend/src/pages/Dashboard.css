@@ -1,0 +1,25 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.d
+{   
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.d h1
+{
+    text-align: center;
+
+}
+.button
+{
+    
+    position:fixed;
+    top: 0;
+    right:0;
+}

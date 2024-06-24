@@ -1,0 +1,101 @@
+.welcome_container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #222;
+    border-radius: 10px;
+    
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+.welcome_container:hover
+{
+    box-shadow: 0 0 20px cyan;
+}
+
+.welcome_container h1 {
+    color:  cyan;
+    
+    margin-bottom: 20px;
+}
+.welcome_container h1:hover
+{
+    text-shadow: 0 0 5px  cyan, 0 0 10px  cyan, 0 0 20px cyan;
+}
+
+.welcome_container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.welcome_container input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid  cyan;
+    border-radius: 5px;
+    background-color: #333;
+    color:  cyan;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.welcome_container input:hover {
+    box-shadow: 0 0 5px  cyan, 0 0 10px cyan, 0 0 20px  cyan;
+
+}
+
+
+.welcome_container input::placeholder {
+    color: cyan;
+    opacity: 0.7;
+}
+
+.welcome_container input:focus {
+    color:  cyan;
+    border: 1px solid  cyan;
+    background: transparent;
+    margin: 10px;
+}
+
+.welcome_container button {
+    padding: 5px 10px; 
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-size: 14px; 
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.welcome_container button:hover {
+    color: black;
+    background-color:  cyan;
+    box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 20px  cyan;
+}
+.reg
+{
+    padding:20px;
+    color: white;
+}
+.reg a
+{
+    padding:10px;
+    color: cyan;
+    text-decoration:none;
+    transition:text-decoration 0.3s;
+}
+.reg label
+{
+    text-decoration:none;
+    transition:text-decoration 0.3s;
+}
+.reg a:hover {
+    text-decoration: underline;
+  }
+.reg label:hover {
+    text-decoration: underline;
+}
