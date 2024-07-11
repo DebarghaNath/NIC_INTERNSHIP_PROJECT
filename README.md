@@ -17,6 +17,13 @@ User Queries: Upon logging in, users can perform various queries on the data vis
 
 
 Pictures:
+
 Login-Page:
+
 <img width="497" alt="Screenshot 2024-07-11 at 11 35 00 AM" src="https://github.com/DebarghaNath/NIC_INTERNSHIP_PROJECT/assets/171590877/b74982dd-9e33-49b1-8987-9400e41cf6be">
 
+Dashboard:
+![Uploading Screenshot 2024-07-11 at 11.35.00 AM.png…]()
+
+Register-Page:
+![Uploading Screenshot 2024-07-11 at 11.35.00 AM.png…]()
