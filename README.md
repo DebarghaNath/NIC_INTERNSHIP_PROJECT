@@ -23,7 +23,12 @@ Login-Page:
 <img width="497" alt="Screenshot 2024-07-11 at 11 35 00 AM" src="https://github.com/DebarghaNath/NIC_INTERNSHIP_PROJECT/assets/171590877/b74982dd-9e33-49b1-8987-9400e41cf6be">
 
 Dashboard:
-![Uploading Screenshot 2024-07-11 at 11.35.00 AM.png…]()
+
+<img width="1708" alt="Screenshot 2024-07-11 at 11 37 43 AM" src="https://github.com/DebarghaNath/NIC_INTERNSHIP_PROJECT/assets/171590877/f7a75cfb-7a7e-45b2-9e37-3e3963d68e12">
+
 
 Register-Page:
-![Uploading Screenshot 2024-07-11 at 11.35.00 AM.png…]()
+
+<img width="597" alt="Screenshot 2024-07-11 at 11 38 20 AM" src="https://github.com/DebarghaNath/NIC_INTERNSHIP_PROJECT/assets/171590877/b384fc0d-58b9-47e9-99dd-6771214ac33c">
+
+
